@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], and I'm passionate about [Your Interests]. Here's a little about me:
+Welcome to my GitHub profile! I'm Saransh Ramaiya, and I'm passionate about Coding and Develop new ideas. Here's a little about me:
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Salesken As a Automation Developer**
