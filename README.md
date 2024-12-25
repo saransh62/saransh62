@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm [Your Name], and I'm passionate about [Your In
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saransh-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh30/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Saransh3006-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saransh3006)
+[![Twitter](https://img.shields.io/badge/Twitter-@Saransh3014-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Saransh3014)
 ---
 
 ### 📬 Let's Connect!
