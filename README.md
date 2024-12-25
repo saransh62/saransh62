@@ -3,44 +3,35 @@
 Welcome to my GitHub profile! I'm [Your Name], and I'm passionate about [Your Interests]. Here's a little about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Your Current Learning Focus]**
-- 👯 I’m looking to collaborate on **[Type of Projects or Technologies]**
-- 🤔 I’m looking for help with **[Specific Area Where You Need Help]**
-- 💬 Ask me about **[Your Areas of Expertise or Interest]**
-- 📫 How to reach me: **[Your Contact Information or Links]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun or Interesting Fact About You]**
+- 🔭 I’m currently working on **Salesken As a Automation Developer**
+- 🌱 I’m currently learning **Backend Technologies Such as NodeJS,ExpressJS and Springboot**
+- 👯 I’m looking to collaborate on **Backend and Frontend Project where i can leverage my skills**
+- 💬 Ask me about **Backend Technologies,API Automation, UI Automation, Frontend Development**
+- 📫 How to reach me: **https://www.linkedin.com/in/saransh30/**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **Cheerful and Curious Being Who's Good at Catching Things Fast(Fast Learner)**
 
 ---
 
 ## 🛠️ Technologies & Tools
-![Languages](https://img.shields.io/badge/Code-HTML--CSS-blue?style=flat&logo=html5&logoColor=white)
-![Languages](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![Languages](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white)
-![Framework](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react&logoColor=white)
-![Tools](https://img.shields.io/badge/Tools-Git-orange?style=flat&logo=git&logoColor=white)
+### Languages
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-blue?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Code-Java-red?style=flat&logo=java&logoColor=white)
+
+### Tools
+![Postman](https://img.shields.io/badge/Tool-Postman-orange?style=flat&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Tool-IntelliJ%20IDEA-blue?style=flat&logo=intellijidea&logoColor=white)
+![Swagger](https://img.shields.io/badge/Tool-Swagger-green?style=flat&logo=swagger&logoColor=white)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-yellow?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-
----
-
-## 📈 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 💡 Recent Projects
-- [Project Name 1](https://github.com/your-username/project-name-1): Brief description of the project.
-- [Project Name 2](https://github.com/your-username/project-name-2): Brief description of the project.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saransh-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh30/)
+[![Twitter](https://img.shields.io/badge/Twitter-@Saransh3006-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saransh3006)
 ---
 
 ### 📬 Let's Connect!
