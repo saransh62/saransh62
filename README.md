@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Saransh Ramaiya, and I'm passionate about Codi
 - 🔭 I’m currently working on **Salesken As a Automation Developer**
 - 🌱 I’m currently learning **Backend Technologies Such as NodeJS,ExpressJS and Springboot**
 - 👯 I’m looking to collaborate on **Backend and Frontend Project where i can leverage my skills**
-- 💬 Ask me about **Backend Technologies,API Automation, UI Automation, Frontend Development**
+- 💬 Ask me about **Backend Technologies, Frontend Development**
 - 📫 How to reach me: **https://www.linkedin.com/in/saransh30/**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Cheerful and Curious Being Who's Good at Catching Things Fast(Fast Learner)**
