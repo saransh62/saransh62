@@ -28,6 +28,12 @@ Welcome to my GitHub profile! I'm Saransh Ramaiya, and I'm passionate about Codi
 ![Swagger](https://img.shields.io/badge/Tool-Swagger-green?style=flat&logo=swagger&logoColor=white)
 
 ---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilChakraborty&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=SwapnilChakraborty&theme=tokyonight" alt="GitHub Streak">
+</p>
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saransh-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh30/)
