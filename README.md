@@ -17,8 +17,7 @@ I'm a passionate **Software Engineer in Test** with a knack for breaking systems
 ---
 
 ## 🛠️ Tech Stack I Break & Build With
-
-```yaml
+---
 Languages:      Java, Python, JavaScript, C/C++
 Frameworks:     Spring Boot, React, Node.js, Express.js
 Automation:     Playwright, Pytest, Postman, Swagger, Selenium
