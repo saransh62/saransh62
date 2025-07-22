@@ -25,7 +25,6 @@ Databases:      MongoDB, MySQL, PostgreSQL
 CI/CD & Cloud:  GCP, Jenkins, GitHub Actions
 Tools:          Shell Scripting, Git, REST APIs, JIRA
 
-<img src="https://github-readme-stats.vercel.app/api?username=saransh62&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true" alt="Saransh&#x27;s GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransh62&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true" alt="Top Languages">
 
 🌟 What I'm Up To
